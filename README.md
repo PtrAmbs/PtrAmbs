@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PtrAmbs
+- 👋 Hi, I’m 
 - 👀 I’m interested in basic web development.
 - 🌱 I’m currently (re-)learning my lost HTML, PHP, JS & SQL skills. Learning R and LaTex for my studies.
 - 💞️ I’m looking to collaborate on -/-
