@@ -1,7 +1,6 @@
-- 👋 Hi, I’m 
-- 👀 I’m interested in basic web development.
-- 🌱 I’m currently (re-)learning my lost HTML, PHP, JS & SQL skills. Learning R and LaTex for my studies.
-- 💞️ I’m looking to collaborate on -/-
+- 👋 Hi, I’m Pete. I'm a public health student.
+- 👀 I’m interested in data analysis and web development.
+- 🌱 I’m currently learning Python, relearning my lost HTML, PHP, JS & SQL skills, and learning R and LaTex for my studies.
 - 📫 How to reach me: write me at me(//at//)peterambos.de
 
 <!---
